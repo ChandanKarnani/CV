@@ -1,0 +1,19 @@
+.modify{
+    background-color: black;
+    color:aqua
+}
+
+.mod{
+    background-color: antiquewhite;
+    box-sizing: content-box;
+}
+.img{
+    display: flex;
+    height: 25rem;
+    width: 30rem;
+    margin-left: 0rem;
+}
+.imgs{
+    width: 35rem;
+    height: 30rem;
+}
